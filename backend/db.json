@@ -1,0 +1,173 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "recipeName": "Spaghetti Bolognese",
+      "image": "https://plus.unsplash.com/premium_photo-1677000666741-17c3c57139a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fHww",
+      "prepTime": "15 minutes",
+      "cookTime": "60 minutes",
+      "ingredients": [
+        "1 lb ground beef",
+        "1 onion",
+        "chopped",
+        "2 cloves garlic",
+        "minced",
+        "1 carrot",
+        "grated",
+        "1 stalk celery",
+        "chopped",
+        "1 can (14 oz) crushed tomatoes",
+        "1 can (6 oz) tomato paste",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "Salt and pepper to taste",
+        "1/4 cup grated Parmesan cheese",
+        "12 oz spaghetti"
+      ],
+      "instructions": [
+        "In a large pot, cook ground beef over medium heat until browned",
+        "Drain excess fat",
+        "",
+        "Add onion, garlic, carrot, and celery",
+        "Cook until vegetables are tender",
+        "",
+        "Stir in crushed tomatoes, tomato paste, oregano, basil, salt, and pepper",
+        "Simmer for 30 minutes",
+        "",
+        "Meanwhile, cook spaghetti according to package instructions",
+        "Drain",
+        "",
+        "Serve Bolognese sauce over cooked spaghetti and sprinkle with Parmesan cheese",
+        ""
+      ],
+      "servings": 6
+    },
+    {
+      "id": "2",
+      "recipeName": "Caesar Salad",
+      "image": "https://images.unsplash.com/photo-1574926054530-540288c8e678?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "prepTime": "15 minutes",
+      "cookTime": "0 minutes",
+      "ingredients": [
+        "1 head romaine lettuce, chopped",
+        "1 cup croutons",
+        "1/2 cup grated Parmesan cheese",
+        "1/4 cup Caesar dressing",
+        "1 lemon, juiced",
+        "1 clove garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl, combine romaine lettuce, croutons, and Parmesan cheese.",
+        "In a small bowl, whisk together Caesar dressing, lemon juice, garlic, salt, and pepper.",
+        "Pour the dressing over the lettuce mixture and toss to coat evenly.",
+        "Serve immediately as a side dish or add grilled chicken for a complete meal."
+      ],
+      "servings": 4
+    },
+    {
+      "id": "3",
+      "recipeName": "Chicken Stir-Fry",
+      "image": "https://media.istockphoto.com/id/622068426/photo/stir-fry-with-chicken-mushrooms-broccoli-and-peppers.jpg?s=2048x2048&w=is&k=20&c=sbMBIw_QpdlmX8vpgyU9Se7Z5OY9aSMx_-o6hAzVGrI=",
+      "prepTime": "20 minutes",
+      "cookTime": "15 minutes",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breasts, sliced",
+        "2 tablespoons vegetable oil",
+        "1 bell pepper, sliced",
+        "1 small onion, sliced",
+        "1 cup broccoli florets",
+        "1 cup snap peas",
+        "2 cloves garlic, minced",
+        "1/4 cup soy sauce",
+        "2 tablespoons oyster sauce",
+        "1 tablespoon cornstarch",
+        "1 teaspoon sesame oil",
+        "Salt and pepper to taste",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a large skillet, heat vegetable oil over medium-high heat. Add chicken and cook until browned. Remove from the skillet and set aside.",
+        "In the same skillet, add bell pepper, onion, broccoli, snap peas, and garlic. Stir-fry for a few minutes until vegetables are crisp-tender.",
+        "In a small bowl, whisk together soy sauce, oyster sauce, cornstarch, sesame oil, salt, and pepper. Pour the sauce into the skillet with the vegetables.",
+        "Return the cooked chicken to the skillet and stir-fry for an additional minute to coat everything in the sauce.",
+        "Serve the chicken stir-fry over cooked rice."
+      ],
+      "servings": 4
+    },
+    {
+      "id": "4",
+      "recipeName": "Caprese Salad",
+      "image": "https://plus.unsplash.com/premium_photo-1677619680518-4dcb7b9fc3af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2FwcmVzZSUyMFNhbGFkfGVufDB8fDB8fHww",
+      "prepTime": "10 minutes",
+      "cookTime": "0 minutes",
+      "ingredients": [
+        "2 large tomatoes, sliced",
+        "8 oz fresh mozzarella cheese, sliced",
+        "1/2 cup fresh basil leaves",
+        "2 tablespoons balsamic glaze",
+        "2 tablespoons extra virgin olive oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Arrange tomato and mozzarella slices on a serving platter, alternating them.",
+        "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+        "Drizzle balsamic glaze and olive oil over the salad.",
+        "Season with salt and pepper to taste.",
+        "Serve immediately as a refreshing appetizer or side dish."
+      ],
+      "servings": 4
+    },
+    {
+      "id": "5",
+      "recipeName": "Chicken Noodle Soup",
+      "image": "https://images.unsplash.com/photo-1512003867696-6d5ce6835040?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q2hpY2tlbiUyME5vb2RsZSUyMFNvdXB8ZW58MHx8MHx8fDA%3D",
+      "prepTime": "15 minutes",
+      "cookTime": "40 minutes",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breasts",
+        "8 cups chicken broth",
+        "2 carrots, sliced",
+        "2 celery stalks, sliced",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "2 cups egg noodles",
+        "1 bay leaf",
+        "1 teaspoon dried thyme",
+        "Salt and pepper to taste",
+        "Fresh parsley for garnish"
+      ],
+      "instructions": [
+        "In a large pot, bring chicken broth to a boil. Add chicken breasts, carrots, celery, onion, garlic, bay leaf, thyme, salt, and pepper.",
+        "Reduce heat and simmer for 25-30 minutes until chicken is cooked through and vegetables are tender.",
+        "Remove the chicken from the pot and shred it using two forks. Return the shredded chicken to the pot.",
+        "Add egg noodles to the pot and cook according to package instructions until tender.",
+        "Discard the bay leaf. Adjust the seasoning if needed.",
+        "Serve the chicken noodle soup hot, garnished with fresh parsley."
+      ],
+      "servings": 6
+    },
+    {
+      "id": "d260",
+      "recipeName": "Pilau",
+      "image": "https://cheflolaskitchen.com/wp-content/uploads/2019/12/DSC0362-East-african-pilau-pelau.jpg.webp",
+      "prepTime": "10 minutes",
+      "cookTime": "2000 minutes",
+      "ingredients": [
+        "1 teaspoon cloves",
+        "2 tablespoon cumin seeds",
+        "1/2 tablespoon black peppercorn seeds",
+        "12 pods Cardamon",
+        "1 stick cinnamon",
+        "8 Eggs"
+      ],
+      "instructions": [
+        "Place the cumin, black peppers, cinnamon, cardamom and cloves in a dry pan",
+        "Roast over low heat until warmed through and fragrant and blend (I used a coffee grinder) until smooth",
+        "You need just 1 to 11/2 tablespoons for this recipe (depending on how fragrant you want the rice to be)",
+        "Feel free to store the leftover spice powder in an airtight container for up to 3 months, or refrigerate for up to 6 months"
+      ],
+      "servings": "3"
+    }
+  ]
+}
